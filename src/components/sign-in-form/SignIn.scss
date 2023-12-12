@@ -1,0 +1,16 @@
+.sign-in-container {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    // padding: 10px;
+    // background-color: rgb(163, 163, 163);
+  
+    h2 {
+      margin: 10px 0;
+      font-weight: bold;
+    }
+    .buttons-container {
+        display: flex;
+        justify-content: space-between;
+    }
+  }
